@@ -9,7 +9,7 @@
 extension FlickrClient {
     
     struct Constants {
-        static let ApiKey : String = "ab8509e656e68cbf711c216c0208cfe4" // get key from here: https://www.flickr.com/services/api/explore/flickr.photos.search
+        static let ApiKey : String = "30ae1d452d120b39efe938f0e92eaa08" // get key from here: https://www.flickr.com/services/api/explore/flickr.photos.search
         static let BaseURL : String = "https://api.flickr.com/services/rest/"
         static let GalleryID : String = "5704-72157622566655097" // Do we need this? Taken from the old flicr finder app we did...
         static let Format : String = "json"
