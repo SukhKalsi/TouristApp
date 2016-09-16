@@ -11,14 +11,7 @@ You will most likey need to update the Flickr API key located within `Virtual To
 
 ## Screenshots
 
-App main view:
 ![App main view](/virtual_tourist_demo/main.png?raw=true "App main view")
-
-Selecting pin loader:
 ![Selecting pin loader](/virtual_tourist_demo/loading_pin.png?raw=true "Selecting pin loader")
-
-Lazy loading images:
 ![Lazy loading images](/virtual_tourist_demo/loading_images.png?raw=true "Lazy loading images")
-
-Loaded view:
 ![Loaded view](/virtual_tourist_demo/loaded.png?raw=true "Loaded view")
